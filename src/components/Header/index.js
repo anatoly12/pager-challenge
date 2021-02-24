@@ -18,6 +18,9 @@ const Header = ({ onSearch, value, loading, setValue }) => {
           >
             Requirements
           </Nav.Link>
+          <Nav.Link href="https://github.com/anatoly12/pager-challenge" target="_blank">
+            Repo
+          </Nav.Link>
         </Nav>
         <div className="d-flex">
           <FormControl

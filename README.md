@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Pager General SWE Engineering Challenge
+
+Simple application using https://swapi.dev/api to show which Star Wars characters are associated with a search term (name of a planet, starship, film etc.) in the Star Wars universe.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Technical requirements
+
+- ReactJS v17.0.1
+- Bootstrap
+- React Testing Library
 
 ## Available Scripts
 
